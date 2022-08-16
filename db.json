@@ -16,5 +16,11 @@
   "profile": {
     "name": "typicode"
   },
-  "users":[]
+  "users":[
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ]
 }
